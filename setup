@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# vstacks setup — symlink each skill into ~/.claude/skills/
+set -e
+SRC="$(cd "$(dirname "$0")" && pwd)"
+mkdir -p "$HOME/.claude/skills"
+for dir in "$SRC"/skills/*/; do
+  name=$(basename "$dir")
+  ln -sfn "$dir" "$HOME/.claude/skills/$name"
+  echo "linked: /$name"
+done
+echo "VStacks installed. Try /vstacks in Claude Code."
