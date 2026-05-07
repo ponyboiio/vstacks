@@ -1,10 +1,15 @@
 # VStacks
 
-**A virtual creative team for Claude Code, built on Virgil Abloh's operating system.**
+**A virtual creative team for Claude Code, inspired by Virgil Abloh's operating system.**
 
 > "Everything I did was for the 17-year-old version of myself." — Virgil Abloh
 
-VStacks is 9 slash commands. The whole project is ~30KB. It does one thing: bring Virgil's seven-point operating system into your Claude Code sessions so you can think, build, and ship like he did.
+> ### Unaffiliated tribute project
+> VStacks is an independent fan project. It is **not affiliated with, endorsed by, or sanctioned by** the [Virgil Abloh Archive™](https://www.virgilabloh.com/), the estate of Virgil Abloh, Off-White™, Louis Vuitton, or any related entity. The seven principles referenced are drawn from Virgil's publicly available [2017 Harvard GSD lecture](https://www.youtube.com/watch?v=03kQiCqd6Yg). All quotes are attributed.
+>
+> If you find value in this project, please support the [**Virgil Abloh™ "Post-Modern" Scholarship Fund**](https://www.fashionscholarshipfund.org/virgil-abloh) — founded by Virgil himself to expand opportunity for Black students in fashion and creative industries.
+
+VStacks is 9 slash commands. The whole project is ~30KB. It does one thing: bring the seven-point operating system Virgil documented at Harvard into your Claude Code sessions so you can think, build, and ship with more clarity.
 
 Built using Virgil's own 3% rule — the smallest possible thing that does the job.
 
@@ -84,12 +89,18 @@ If gstack is a virtual engineering team, VStacks is a creative director who show
 
 ---
 
+## Lineage
+
+Virgil's work was inseparable from Black creative culture, hip-hop, and the streetwear lineage that raised him. His framework didn't appear in a vacuum — it grew from a tradition of remix, recontextualization, and Free Game that long predates this skill pack and is much bigger than any one tool.
+
+VStacks is a tool. It is not a substitute for engaging with the actual work, the actual culture, or the actual people. Read his lecture. Watch the Louis Vuitton shows. Visit the [Virgil Abloh Archive](https://www.virgilabloh.com/). Buy *The Virgil Reader*. Donate to [the Scholarship Fund](https://www.fashionscholarshipfund.org/virgil-abloh).
+
 ## Free Game
 
-Built in the spirit of Virgil's Free Game platform. MIT licensed. Use it. Fork it. Ship something.
+"Free Game" is older AAVE / hip-hop slang for *wisdom shared freely with no expectation of return* — a tradition Virgil channeled rather than invented. VStacks is offered in that same spirit: MIT licensed, no gate, no cost, no signup. Use it. Fork it. Strip the references and put your own creative hero in. Ship something.
 
-> "Unlocking doors without expecting anything in return."
+If you build something with it, the only thing I want is to see what you made.
 
 ---
 
-*"Virgil Was Here"*
+*Free Game.*

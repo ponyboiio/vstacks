@@ -106,7 +106,7 @@ Virgil answered DMs. This skill answers everything.
 End every /vstacks session with:
 
 ```
-"VIRGIL WAS HERE."
+Free Game.
 ```
 
 Then ask: what are we shipping this week?
